@@ -1,0 +1,32 @@
+
+a.tabs{
+    text-decoration: none;
+    color: white;
+}
+a.tabs:hover{
+    
+    background-color: rgb(252, 252, 252);
+}
+
+div.heritage,div.hotel_booking,div.index{
+    margin-left: 2px;
+    margin-top: 2px;
+}
+
+h2.heritage{
+    color: rgb(0, 0, 0)
+}
+hr{
+    color: rgb(0, 0, 0);
+}
+
+.heritage_images{
+    height: 650px;
+    width:1000px ;
+    margin: 5px;
+}
+
+.heritage_list{
+    font-size: medium;
+    font-weight: 400;
+}
