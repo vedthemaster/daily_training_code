@@ -1,0 +1,16 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\Demo09_StatePattern.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\Demo09_StatePattern.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\Demo09_StatePattern.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\Demo09_StatePattern.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\Demo09_StatePattern.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\ref\Demo09_StatePattern.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\bin\Debug\net5.0\Demo09_StatePattern.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\ref\Demo09_StatePattern.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.genruntimeconfig.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo09_StatePattern\obj\Debug\net5.0\Demo09_StatePattern.csproj.AssemblyReference.cache

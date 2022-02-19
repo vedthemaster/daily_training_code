@@ -1,0 +1,15 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\ref\Demo15_IComparable.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\bin\Debug\net5.0\Demo15_IComparable.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\ref\Demo15_IComparable.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo15_IComparable\obj\Debug\net5.0\Demo15_IComparable.genruntimeconfig.cache

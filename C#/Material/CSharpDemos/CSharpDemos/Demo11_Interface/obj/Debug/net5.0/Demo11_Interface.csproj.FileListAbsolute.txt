@@ -1,0 +1,15 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\ref\Demo11_Interface.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\bin\Debug\net5.0\Demo11_Interface.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\ref\Demo11_Interface.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo11_Interface\obj\Debug\net5.0\Demo11_Interface.genruntimeconfig.cache

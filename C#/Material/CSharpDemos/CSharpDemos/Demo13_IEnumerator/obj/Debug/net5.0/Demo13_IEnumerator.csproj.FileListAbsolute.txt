@@ -1,0 +1,15 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\Demo13_IEnumerator.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\Demo13_IEnumerator.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\Demo13_IEnumerator.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\Demo13_IEnumerator.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\Demo13_IEnumerator.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\ref\Demo13_IEnumerator.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\bin\Debug\net5.0\Demo13_IEnumerator.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\ref\Demo13_IEnumerator.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo13_IEnumerator\obj\Debug\net5.0\Demo13_IEnumerator.genruntimeconfig.cache

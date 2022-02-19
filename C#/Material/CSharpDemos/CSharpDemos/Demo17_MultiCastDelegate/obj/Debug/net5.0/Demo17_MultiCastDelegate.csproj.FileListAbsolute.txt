@@ -1,0 +1,15 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\Demo17_MultiCastDelegate.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\Demo17_MultiCastDelegate.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\Demo17_MultiCastDelegate.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\Demo17_MultiCastDelegate.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\Demo17_MultiCastDelegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\ref\Demo17_MultiCastDelegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\bin\Debug\net5.0\Demo17_MultiCastDelegate.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\ref\Demo17_MultiCastDelegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo17_MultiCastDelegate\obj\Debug\net5.0\Demo17_MultiCastDelegate.genruntimeconfig.cache

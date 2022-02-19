@@ -1,0 +1,15 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\ref\Demo16_Delegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\bin\Debug\net5.0\Demo16_Delegate.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\ref\Demo16_Delegate.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo16_Delegate\obj\Debug\net5.0\Demo16_Delegate.genruntimeconfig.cache

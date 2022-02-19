@@ -1,0 +1,16 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\ref\Demo10_Indexer.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\bin\Debug\net5.0\Demo10_Indexer.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.csproj.AssemblyReference.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\ref\Demo10_Indexer.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo10_Indexer\obj\Debug\net5.0\Demo10_Indexer.genruntimeconfig.cache

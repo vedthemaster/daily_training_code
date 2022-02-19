@@ -1,0 +1,18 @@
+<h1 id="tableLabel">List of Sections</h1>
+
+<p>This component demonstrates fetching the data from the API</p>
+
+<table class="table table-striped" aria-labelledby="tableLabel" *ngIf="sections">
+  <thead>
+    <tr>
+      <th>Section Id</th>
+      <th>Section Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let sec of sections">
+      <td>{{ sec.sectionId }}</td>
+      <td>{{ sec.sectionName }}</td>
+    </tr>
+  </tbody>
+</table>

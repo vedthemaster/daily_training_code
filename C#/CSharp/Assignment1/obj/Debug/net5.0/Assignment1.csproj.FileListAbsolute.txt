@@ -1,0 +1,16 @@
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.exe
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.deps.json
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.json
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.dev.json
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.dll
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\ref\Assignment1.dll
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.pdb
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfo.cs
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.dll
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\ref\Assignment1.dll
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.pdb
+C:\Users\vedpa\OneDrive\Desktop\Training Folder\C#\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.genruntimeconfig.cache

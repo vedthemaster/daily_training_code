@@ -1,0 +1,16 @@
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\Demo08_Constructors.exe
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\Demo08_Constructors.deps.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\Demo08_Constructors.runtimeconfig.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\Demo08_Constructors.runtimeconfig.dev.json
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\Demo08_Constructors.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\ref\Demo08_Constructors.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\bin\Debug\net5.0\Demo08_Constructors.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.csproj.AssemblyReference.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.AssemblyInfoInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.AssemblyInfo.cs
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.csproj.CoreCompileInputs.cache
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\ref\Demo08_Constructors.dll
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.pdb
+C:\temp\GanpatUniv2\CSharpDemos\CSharpDemos\Demo08_Constructors\obj\Debug\net5.0\Demo08_Constructors.genruntimeconfig.cache
