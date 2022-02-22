@@ -10,6 +10,7 @@ import { HomeComponent } from './home/home.component';
 import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { SectionComponent } from './section/section.component';
+import { BinancePricesComponent } from './binance-prices/binance-prices.component'
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { SectionComponent } from './section/section.component';
     HomeComponent,
     CounterComponent,
     FetchDataComponent,
-    SectionComponent
+    SectionComponent,
+    BinancePricesComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -28,7 +30,8 @@ import { SectionComponent } from './section/section.component';
       { path: '', component: HomeComponent, pathMatch: 'full' },
       { path: 'counter', component: CounterComponent },
       { path: 'fetch-data', component: FetchDataComponent },
-      { path: 'section', component: SectionComponent }
+      { path: 'section', component: SectionComponent },
+      { path: 'binance-prices', component: BinancePricesComponent }
     ])
   ],
   providers: [],

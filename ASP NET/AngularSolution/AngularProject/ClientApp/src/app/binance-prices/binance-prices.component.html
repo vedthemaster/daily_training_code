@@ -1,0 +1,18 @@
+<h1 id="tableLabel">List of Sections</h1>
+
+<p>This component demonstrates fetching the data from the API</p>
+
+<table class="table table-striped" aria-labelledby="tableLabel" >
+  <thead>
+    <tr>
+      <th>Coin Symbol</th>
+      <th>Coin Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let coinprice of finaldata">
+      <td>{{ coinprice.symbol }}</td>
+      <td>{{ coinprice.price }}</td>
+    </tr>
+  </tbody>
+</table>
