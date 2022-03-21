@@ -12,14 +12,11 @@ namespace Demo06_MethodOverloading
             obj.DoSomething("hello world");
             obj.DoSomething(true);
 
-
-
             int i = 10;
             bool b = false;
 
             object o = i;           // boxing - implicit
             int j = (int)o;         // unboxing - explicit
-
 
             Demo02 obj2 = new Demo02();
             obj2.DoSomething(10);           // implicitly boxing

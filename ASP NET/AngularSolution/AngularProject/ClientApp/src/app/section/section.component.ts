@@ -20,9 +20,7 @@ export class SectionComponent {
 
     }, error => console.error(error));
   }
-
 }
-
 
 interface Section {
   sectionId: number,
