@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="3" hostname="LAPTOP-1LBL94L2" name="pytest" skipped="2" tests="6" time="0.225" timestamp="2022-04-02T09:05:18.341265"><testcase classname="test_addition1" name="test_add_1" time="0.002"><skipped message="unconditional skip" type="pytest.skip">C:\Users\vedpa\OneDrive\Desktop\Training Folder\Python with Selenium\pytest\test_addition1.py:4: unconditional skip</skipped></testcase><testcase classname="test_addition1" name="test_add_2" time="0.002"><skipped message="unconditional skip" type="pytest.skip">C:\Users\vedpa\OneDrive\Desktop\Training Folder\Python with Selenium\pytest\test_addition1.py:8: unconditional skip</skipped></testcase><testcase classname="test_addition1" name="test_add_3" time="0.003" /><testcase classname="test_addition1" name="test_add_4" time="0.003"><failure message="AssertionError: failed&#10;assert 1510 == 40">def test_add_4():
+&gt;       assert 15_10 == 40,"failed"
+E       AssertionError: failed
+E       assert 1510 == 40
+
+test_addition1.py:17: AssertionError</failure></testcase><testcase classname="test_addition1" name="test_add_5" time="0.004"><failure message="AssertionError: failed&#10;assert (12 + 2) == 0">def test_add_5():
+&gt;       assert 12+2 == 0,"failed"
+E       AssertionError: failed
+E       assert (12 + 2) == 0
+
+test_addition1.py:20: AssertionError</failure></testcase><testcase classname="test_addition1" name="test_add_6" time="0.003"><failure message="AssertionError: failed&#10;assert (100 + 20) == 4545">def test_add_6():
+&gt;       assert 100+20 == 4545,"failed"
+E       AssertionError: failed
+E       assert (100 + 20) == 4545
+
+test_addition1.py:23: AssertionError</failure></testcase></testsuite></testsuites>
